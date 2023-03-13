@@ -1,0 +1,22 @@
+파이썬 설치
+
+cmd에서
+
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+python get-pip.py
+
+vs터미널에서
+
+py -m pip install pyautogui
+
+py -m pip install keyboard
+
+py -m pip install openpyxl
+
+py -m pip install selenium
+
+py -m pip install clipboard
+
+py -m pip install pillow
+
