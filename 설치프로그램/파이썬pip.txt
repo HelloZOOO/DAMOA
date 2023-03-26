@@ -21,3 +21,5 @@ py -m pip install clipboard
 py -m pip install pillow
 
 py -m pip install beautifulsoup4
+
+py -m pip install requests
