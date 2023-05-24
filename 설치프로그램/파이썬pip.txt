@@ -23,3 +23,19 @@ py -m pip install pillow
 py -m pip install beautifulsoup4
 
 py -m pip install requests
+
+#우분투 전용
+
+sudo pip install xlrd
+
+sudo apt-get install xvfb
+
+sudo pip install pyvirtualdisplay
+
+sudo pip install selenium
+
+sudo pip install webdriver_manager
+
+sudo pip install beautifulsoup4
+
+sudo pip install openpyxl
