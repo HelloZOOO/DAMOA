@@ -39,3 +39,6 @@ sudo pip install webdriver_manager
 sudo pip install beautifulsoup4
 
 sudo pip install openpyxl
+
+#맥 파이썬 경로
+/Library/Developer/CommandLineTools/usr/bin/python3
